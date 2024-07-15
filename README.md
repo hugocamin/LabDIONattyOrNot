@@ -1,0 +1,2 @@
+# LabDIONattyOrNot
+Utilização de IA
