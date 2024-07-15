@@ -11,5 +11,5 @@ IA Generativa D-ID para sintetização de voz e geração de avatar virtual;
 Primeiro, compreendi que o objetivo era criar um vídeo otimista sobre a revolução tecnológica e o futuro da inteligência artificial. O vídeo deveria ser curto, cativante e informativo, com uma duração de aproximadamente 1 minuto.
 
 ## 🚀 Resultados
-<video>
+[Clique aqui](https://uploadnow.io/pt/share?utm_source=Rt44YhK)
 
